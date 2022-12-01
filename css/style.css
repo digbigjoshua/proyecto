@@ -1,0 +1,12 @@
+.questions{
+    font-size: 50px;
+    text-align: center;
+}
+.failed{
+    color:red;
+    font-size:40px;
+    border:6px solid red;
+    padding:10px 100px;
+    position:absolute;
+    transform: rotate(45deg) translate(650px, -350px);
+}
